@@ -15,7 +15,7 @@
     "title": "Training Session Highlights",
     "description": "Watch the team's intense training sessions and tactical drills.",
     "thumbnail": "./assets/images/Tv2.jpg",
-    "videoUrl": "./assets/videos/training2.mp4"
+    "videoUrl": "./assets/videos/training2.mp4" ,
     "duration": "12:45",
     "category": "Training",
     "premium": true,
