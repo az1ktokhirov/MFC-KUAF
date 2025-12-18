@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "matchId": 1,
+    "category": "Standard",
+    "basePrice": 50,
+    "available": 500,
+    "total": 1000
+  },
+  {
+    "id": 2,
+    "matchId": 1,
+    "category": "Premium",
+    "basePrice": 100,
+    "available": 200,
+    "total": 300
+  },
+  {
+    "id": 3,
+    "matchId": 1,
+    "category": "VIP",
+    "basePrice": 200,
+    "available": 50,
+    "total": 100
+  },
+  {
+    "id": 4,
+    "matchId": 2,
+    "category": "Standard",
+    "basePrice": 50,
+    "available": 600,
+    "total": 1000
+  },
+  {
+    "id": 5,
+    "matchId": 2,
+    "category": "Premium",
+    "basePrice": 100,
+    "available": 250,
+    "total": 300
+  },
+  {
+    "id": 6,
+    "matchId": 3,
+    "category": "Standard",
+    "basePrice": 40,
+    "available": 800,
+    "total": 1000
+  }
+]
+

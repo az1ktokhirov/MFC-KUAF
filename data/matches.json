@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "homeTeam": "FC KUAF",
+    "awayTeam": "City Rivals",
+    "competition": "League",
+    "date": "2025-02-15",
+    "time": "19:00",
+    "venue": "KUAF Stadium",
+    "status": "upcoming",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": 2,
+    "homeTeam": "FC KUAF",
+    "awayTeam": "Regional FC",
+    "competition": "League",
+    "date": "2025-02-22",
+    "time": "18:30",
+    "venue": "KUAF Stadium",
+    "status": "upcoming",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": 3,
+    "homeTeam": "United FC",
+    "awayTeam": "FC KUAF",
+    "competition": "League",
+    "date": "2025-03-01",
+    "time": "20:00",
+    "venue": "United Arena",
+    "status": "upcoming",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": 4,
+    "homeTeam": "FC KUAF",
+    "awayTeam": "Champions FC",
+    "competition": "League",
+    "date": "2025-01-20",
+    "time": "19:00",
+    "venue": "KUAF Stadium",
+    "status": "completed",
+    "homeScore": 3,
+    "awayScore": 1,
+    "attendance": 45000
+  },
+  {
+    "id": 5,
+    "homeTeam": "Rivals United",
+    "awayTeam": "FC KUAF",
+    "competition": "League",
+    "date": "2025-01-12",
+    "time": "18:00",
+    "venue": "Rivals Arena",
+    "status": "completed",
+    "homeScore": 0,
+    "awayScore": 2,
+    "attendance": 35000
+  },
+  {
+    "id": 6,
+    "homeTeam": "FC KUAF",
+    "awayTeam": "Metro FC",
+    "competition": "League",
+    "date": "2025-01-05",
+    "time": "19:30",
+    "venue": "KUAF Stadium",
+    "status": "completed",
+    "homeScore": 4,
+    "awayScore": 0,
+    "attendance": 42000
+  }
+]
+

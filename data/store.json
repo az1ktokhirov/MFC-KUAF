@@ -1,0 +1,255 @@
+[
+  {
+    "id": 1,
+    "name": "FC KUAF Home Jersey 2025",
+    "description": "Official FC KUAF match jersey in burgundy with navy blue accents. Authentic player specification fabric with moisture-wicking technology.",
+    "price": 79.99,
+    "image": "/assets/images/store/Kit1.jpg",
+    "category": "jersey",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 2,
+    "name": "FC KUAF Away Jersey 2025",
+    "description": "Official FC KUAF away jersey in navy blue. Premium quality with official club crest and sponsor logos.",
+    "price": 79.99,
+    "image": "/assets/images/store/Kit2.jpg",
+    "category": "jersey",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 3,
+    "name": "FC KUAF Third Kit 2025",
+    "description": "Limited edition third kit featuring unique design elements. Exclusive to FC KUAF supporters.",
+    "price": 84.99,
+    "image": "/assets/images/store/Kit3.jpg",
+    "category": "jersey",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 4,
+    "name": "FC KUAF Training Kit",
+    "description": "Professional training jersey designed for performance. Lightweight and breathable material.",
+    "price": 59.99,
+    "image": "/assets/images/store/Kit4.jpg",
+    "category": "jersey",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 5,
+    "name": "FC KUAF Match Day Kit",
+    "description": "Authentic match day jersey worn by the players. Complete with official badges and numbering options.",
+    "price": 89.99,
+    "image": "/assets/images/store/Kit5.jpg",
+    "category": "jersey",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 6,
+    "name": "FC KUAF Special Edition Kit",
+    "description": "Special edition jersey commemorating the season. Limited stock available.",
+    "price": 94.99,
+    "image": "/assets/images/store/Kit6.jpg",
+    "category": "jersey",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 7,
+    "name": "FC KUAF Nike Collaboration Kit",
+    "description": "Premium collaboration kit with Nike. Featuring cutting-edge design and technology.",
+    "price": 99.99,
+    "image": "/assets/images/store/KitNike.jpg",
+    "category": "jersey",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 8,
+    "name": "FC KUAF Goalkeeper Kit",
+    "description": "Professional goalkeeper jersey with enhanced visibility and performance features.",
+    "price": 74.99,
+    "image": "/assets/images/store/GkKit1.jpg",
+    "category": "jersey",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 9,
+    "name": "FC KUAF Training Kit (Away)",
+    "description": "Away training kit perfect for practice sessions. Durable and comfortable.",
+    "price": 59.99,
+    "image": "/assets/images/store/TrKit.jpg",
+    "category": "jersey",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 10,
+    "name": "FC KUAF Premium Hoodie",
+    "description": "Stylish burgundy hoodie with FC KUAF branding. Perfect for casual matchday wear.",
+    "price": 64.99,
+    "image": "/assets/images/store/Hoodie1.jpg",
+    "category": "apparel",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 11,
+    "name": "FC KUAF Navy Blue Hoodie",
+    "description": "Classic navy blue hoodie with embroidered club logo. Premium cotton blend.",
+    "price": 64.99,
+    "image": "/assets/images/store/Hoodie2.jpg",
+    "category": "apparel",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 12,
+    "name": "FC KUAF Sweater - Burgundy",
+    "description": "Warm burgundy sweater perfect for cooler matchdays. Features subtle FC KUAF branding.",
+    "price": 54.99,
+    "image": "/assets/images/store/Sweater1.jpg",
+    "category": "apparel",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 13,
+    "name": "FC KUAF Sweater - Navy",
+    "description": "Classic navy sweater with FC KUAF crest. Comfortable and stylish.",
+    "price": 54.99,
+    "image": "/assets/images/store/Sweater2.jpg",
+    "category": "apparel",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 14,
+    "name": "FC KUAF Sweater - Classic",
+    "description": "Timeless design sweater in club colors. Perfect addition to your FC KUAF collection.",
+    "price": 54.99,
+    "image": "/assets/images/store/Sweater3.jpg",
+    "category": "apparel",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 15,
+    "name": "FC KUAF Sweatshirt - Home",
+    "description": "Comfortable sweatshirt in burgundy. Ideal for training or casual wear.",
+    "price": 49.99,
+    "image": "/assets/images/store/Sweatshirt1.jpg",
+    "category": "apparel",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 16,
+    "name": "FC KUAF Sweatshirt - Away",
+    "description": "Navy blue sweatshirt with FC KUAF branding. Soft and comfortable fabric.",
+    "price": 49.99,
+    "image": "/assets/images/store/Sweatshirt2.jpg",
+    "category": "apparel",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 17,
+    "name": "FC KUAF Sweatshirt - Training",
+    "description": "Athletic sweatshirt designed for active wear. Breathable and lightweight.",
+    "price": 49.99,
+    "image": "/assets/images/store/Sweatshirt3.jpg",
+    "category": "apparel",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 18,
+    "name": "FC KUAF Sweatshirt - Limited",
+    "description": "Limited edition sweatshirt with special design elements. Collectible item.",
+    "price": 54.99,
+    "image": "/assets/images/store/Sweatshirt4.jpg",
+    "category": "apparel",
+    "purchasableWithCoins": false
+  },
+  {
+    "id": 19,
+    "name": "FC KUAF LEGO Set - Collection A1",
+    "description": "Official FC KUAF LEGO building set. Build your own stadium and players.",
+    "price": 39.99,
+    "image": "/assets/images/store/LEGOtoyA1.jpg",
+    "category": "toys",
+    "purchasableWithCoins": true,
+    "coinPrice": 2000
+  },
+  {
+    "id": 20,
+    "name": "FC KUAF LEGO Set - Collection A2",
+    "description": "Special edition LEGO set featuring FC KUAF players and accessories.",
+    "price": 39.99,
+    "image": "/assets/images/store/LEGOtoyA2.jpg",
+    "category": "toys",
+    "purchasableWithCoins": true,
+    "coinPrice": 2000
+  },
+  {
+    "id": 21,
+    "name": "FC KUAF LEGO Set - Collection A3",
+    "description": "Complete LEGO stadium set with team figures and match accessories.",
+    "price": 44.99,
+    "image": "/assets/images/store/LEGOtoyA3.jpg",
+    "category": "toys",
+    "purchasableWithCoins": true,
+    "coinPrice": 2200
+  },
+  {
+    "id": 22,
+    "name": "FC KUAF LEGO Set - Collection B1",
+    "description": "Premium LEGO set with detailed player figures and club facilities.",
+    "price": 44.99,
+    "image": "/assets/images/store/LEGOtoyB1.jpg",
+    "category": "toys",
+    "purchasableWithCoins": true,
+    "coinPrice": 2200
+  },
+  {
+    "id": 23,
+    "name": "FC KUAF LEGO Set - Collection B2",
+    "description": "Exclusive LEGO collection featuring matchday scenes and players.",
+    "price": 44.99,
+    "image": "/assets/images/store/LEGOtoyB2.jpg",
+    "category": "toys",
+    "purchasableWithCoins": true,
+    "coinPrice": 2200
+  },
+  {
+    "id": 24,
+    "name": "FC KUAF LEGO Set - Collection B3",
+    "description": "Deluxe LEGO set with complete stadium and team collection.",
+    "price": 49.99,
+    "image": "/assets/images/store/LEGOtoyB3.jpg",
+    "category": "toys",
+    "purchasableWithCoins": true,
+    "coinPrice": 2500
+  },
+  {
+    "id": 25,
+    "name": "FC KUAF Funko POP! - Player Edition 1",
+    "description": "Collectible Funko POP! figure featuring FC KUAF player design.",
+    "price": 19.99,
+    "image": "/assets/images/store/POP!toy1.jpg",
+    "category": "toys",
+    "purchasableWithCoins": true,
+    "coinPrice": 1000
+  },
+  {
+    "id": 26,
+    "name": "FC KUAF Funko POP! - Player Edition 2",
+    "description": "Limited edition Funko POP! figure with exclusive FC KUAF styling.",
+    "price": 19.99,
+    "image": "/assets/images/store/POP!toy2.jpg",
+    "category": "toys",
+    "purchasableWithCoins": true,
+    "coinPrice": 1000
+  },
+  {
+    "id": 27,
+    "name": "FC KUAF Funko POP! - Special Edition",
+    "description": "Special edition Funko POP! featuring unique FC KUAF collectible design.",
+    "price": 24.99,
+    "image": "/assets/images/store/POP!toy3.jpg",
+    "category": "toys",
+    "purchasableWithCoins": true,
+    "coinPrice": 1200
+  }
+]
+

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "username": "premium_user",
+    "email": "premium@kuaf.com",
+    "password": "premium123",
+    "premium": true,
+    "premiumType": "monthly",
+    "premiumExpires": "2025-12-31",
+    "coins": 5000,
+    "supportScore": 1500,
+    "avatar": "https://via.placeholder.com/150/800020/FFFFFF?text=P",
+    "badges": ["Premium", "Bronze"],
+    "donationHistory": [
+      {
+        "amount": 20,
+        "date": "2025-01-15",
+        "coinsReceived": 3000,
+        "scoreReceived": 500
+      }
+    ],
+    "cosmeticItems": []
+  },
+  {
+    "id": 2,
+    "username": "free_user",
+    "email": "free@kuaf.com",
+    "password": "free123",
+    "premium": false,
+    "premiumType": null,
+    "premiumExpires": null,
+    "coins": 500,
+    "supportScore": 200,
+    "avatar": "https://via.placeholder.com/150/000080/FFFFFF?text=F",
+    "badges": ["Bronze"],
+    "donationHistory": [
+      {
+        "amount": 5,
+        "date": "2025-01-10",
+        "coinsReceived": 600,
+        "scoreReceived": 80
+      }
+    ],
+    "cosmeticItems": []
+  }
+]
+

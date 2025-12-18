@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "amount": 1,
+    "coins": 100,
+    "score": 10,
+    "badge": "Bronze",
+    "badgeThreshold": 10
+  },
+  {
+    "id": 2,
+    "amount": 5,
+    "coins": 600,
+    "score": 80,
+    "badge": "Silver",
+    "badgeThreshold": 80
+  },
+  {
+    "id": 3,
+    "amount": 10,
+    "coins": 1300,
+    "score": 200,
+    "badge": "Gold",
+    "badgeThreshold": 200
+  },
+  {
+    "id": 4,
+    "amount": 20,
+    "coins": 3000,
+    "score": 500,
+    "badge": "Diamond",
+    "badgeThreshold": 500
+  }
+]
+

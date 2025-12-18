@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "username": "premium_user",
+    "supportScore": 1500,
+    "rank": 1,
+    "month": 1,
+    "year": 2025
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "username": "free_user",
+    "supportScore": 200,
+    "rank": 2,
+    "month": 1,
+    "year": 2025
+  }
+]
+

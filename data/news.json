@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "FC KUAF Wins Thrilling Match Against Champions FC",
+    "excerpt": "The team showed exceptional performance in a 3-1 victory that showcased our attacking prowess.",
+    "content": "FC KUAF delivered an outstanding performance against Champions FC, securing a decisive 3-1 victory. The match highlighted our team's attacking capabilities and defensive solidity. Fans were treated to an exciting display of football that demonstrates our commitment to excellence.",
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+    "date": "2025-01-20",
+    "category": "Match Report"
+  },
+  {
+    "id": 2,
+    "title": "New Stadium Upgrades Announced",
+    "excerpt": "Major improvements to enhance fan experience and facilities at KUAF Stadium.",
+    "content": "FC KUAF is excited to announce major stadium upgrades that will enhance the matchday experience for all fans. These improvements include new seating areas, enhanced facilities, and state-of-the-art technology installations throughout the stadium.",
+    "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=800",
+    "date": "2025-01-18",
+    "category": "Club News"
+  },
+  {
+    "id": 3,
+    "title": "Training Session Open to Premium Members",
+    "excerpt": "Premium members get exclusive access to watch the team's training sessions this week.",
+    "content": "Premium members of FC KUAF will have exclusive access to watch training sessions this week. This is part of our commitment to providing premium members with unique experiences and behind-the-scenes content.",
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800",
+    "date": "2025-01-15",
+    "category": "Premium"
+  },
+  {
+    "id": 4,
+    "title": "Youth Academy Talent Showcase",
+    "excerpt": "Young talents from our academy are showing great promise for the future.",
+    "content": "The FC KUAF Youth Academy continues to produce exceptional talent. Our young players are demonstrating skills and commitment that promise a bright future for the club. Several academy graduates are already making their mark in the senior team.",
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800",
+    "date": "2025-01-12",
+    "category": "Academy"
+  },
+  {
+    "id": 5,
+    "title": "Match Preview: FC KUAF vs City Rivals",
+    "excerpt": "Everything you need to know about the upcoming derby match.",
+    "content": "FC KUAF prepares for a crucial derby match against City Rivals. This fixture always brings high intensity and passion from both sides. Our team is fully prepared and motivated to secure victory in front of our home fans.",
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+    "date": "2025-02-14",
+    "category": "Match Preview"
+  }
+]
+

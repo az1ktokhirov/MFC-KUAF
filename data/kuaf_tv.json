@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Behind the Scenes: Matchday Preparation",
+    "description": "Exclusive look at how FC KUAF prepares for matchday. From pre-match routines to locker room talks.",
+    "thumbnail": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+    "videoUrl": "./assets/videos/training1.mp4",
+    "duration": "15:30",
+    "category": "Behind the Scenes",
+    "premium": true,
+    "date": "2025-01-20"
+  },
+  {
+    "id": 2,
+    "title": "Training Session Highlights",
+    "description": "Watch the team's intense training sessions and tactical drills.",
+    "thumbnail": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800",
+    "videoUrl": "https://youtu.be/VH5_Uzw_Umw?si=gP1Wd-Fk9UNZ5l7u",
+    "duration": "12:45",
+    "category": "Training",
+    "premium": true,
+    "date": "2025-01-18"
+  },
+  {
+    "id": 3,
+    "title": "Player Interviews: Season Goals",
+    "description": "Exclusive interviews with key players discussing their goals for the season.",
+    "thumbnail": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800",
+    "videoUrl": "https://youtu.be/VxqcUkkudwo?si=XYrPINKxX9s9Gfb_",
+    "duration": "20:00",
+    "category": "Interviews",
+    "premium": true,
+    "date": "2025-01-15"
+  },
+  {
+    "id": 4,
+    "title": "Locker Room Access: Victory Celebration",
+    "description": "Get inside the locker room after a big victory. Pure emotion and team spirit.",
+    "thumbnail": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=800",
+    "videoUrl": "https://youtu.be/6RvdoGRjOY0?si=PxbseWGZyCWpT_Xv",
+    "duration": "8:20",
+    "category": "Locker Room",
+    "premium": true,
+    "date": "2025-01-12"
+  },
+  {
+    "id": 5,
+    "title": "KUAF Originals: The Journey Begins",
+    "description": "A special documentary series following FC KUAF's journey through the season.",
+    "thumbnail": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+    "videoUrl": "https://youtu.be/STn3GL-1Wts?si=GHms9zCW9zVvYS0w",
+    "duration": "25:00",
+    "category": "KUAF Originals",
+    "premium": true,
+    "date": "2025-01-10"
+  }
+]
+

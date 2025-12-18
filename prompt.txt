@@ -1,0 +1,286 @@
+**Core UX**
+
+* 3️⃣ Skeleton Loading System
+* 4️⃣ Micro-interactions
+* 5️⃣ Smart Global Search
+* 8️⃣ KUAF TV Video Overlay Upgrade
+* 9️⃣ Store Mini Cart System
+
+**UI / Site Polish**
+
+* Sponsors Carousel
+* Newsletter Signup
+* Footnotes (Legal) Section
+* Dynamic Favicon (Light/Dark)
+* Custom 404 Page (Barcelona style)
+
+---
+
+## 🔷 PHASE 1 — Skeleton Loading System (UX Boost)
+
+### 🎯 Maqsad
+
+Foydalanuvchi ma’lumot kutayotganida “bo‘sh sahifa” ko‘rmasin.
+
+### 🔧 Qanday qilinadi
+
+1. `css/skeleton.css` yaratiladi
+2. Universal skeleton classlar:
+
+   * `.skeleton-card`
+   * `.skeleton-text`
+   * `.skeleton-avatar`
+3. Pages:
+
+   * Squad
+   * Player
+   * Store
+   * Tickets
+   * News
+
+### 🔁 Flow
+
+```
+Page load →
+Show skeleton →
+Fetch JSON →
+Replace skeleton with real content
+```
+
+### ⚠️ Muhim
+
+Skeleton FC Barcelona’ga o‘xshash bo‘lishi kerak (soft gradient, pulse effect).
+
+---
+
+## 🔷 PHASE 2 — Micro-Interactions System (Premium Feel)
+
+### 🎯 Maqsad
+
+Sayt “tirik” bo‘lib sezilsin.
+
+### 🔧 CSS Animations
+
+Yagona animatsiya fayli:
+
+```
+css/animations.css
+```
+
+### Interactions:
+
+* Button click → ripple
+* Card hover → lift + shadow
+* Image hover → zoom + overlay
+* Nav link hover → underline slide
+* Logo hover → subtle shake
+
+### JS:
+
+Minimal — faqat click feedback uchun.
+
+---
+
+## 🔷 PHASE 3 — Smart Global Search System
+
+### 🎯 Maqsad
+
+Sayt bo‘ylab tez qidiruv.
+
+### 🔧 Qamrab oladi
+
+* Players
+* News
+* Matches
+* Store products
+
+### UI:
+
+* Header’da search icon
+* Click → fullscreen search modal
+* Input + live results
+
+### Logic:
+
+```
+Input change →
+Filter all JSON datasets →
+Group results →
+Clickable links
+```
+
+### UX:
+
+* Keyboard support
+* Escape bilan yopiladi
+* Result hover animation
+
+---
+
+## 🔷 PHASE 4 — KUAF TV Video Overlay Upgrade
+
+### 🎯 Maqsad
+
+Barcelona TV+ darajasidagi video tajriba.
+
+### 🔧 O‘zgarishlar
+
+* Fullscreen overlay
+* Smooth fade + scale
+* Background blur
+* Custom controls:
+
+  * Play / Pause
+  * Volume
+  * Progress bar
+* Next / Prev video
+
+### Access:
+
+* Free users → blurred + lock
+* Premium → full access
+
+---
+
+## 🔷 PHASE 5 — Store Mini Cart System (E-commerce feel)
+
+### 🎯 Maqsad
+
+Store’ni real shopga o‘xshatish.
+
+### UI:
+
+* Header cart icon
+* Badge (items count)
+* Hover → dropdown preview
+
+### Features:
+
+* Add / remove items
+* Quantity control
+* Total price
+* Premium discount auto-apply
+
+### Data:
+
+* Stored in LocalStorage
+* Session persistent
+
+---
+
+## 🔷 PHASE 6 — Sponsors Carousel
+
+### 🎯 Maqsad
+
+Professional club branding.
+
+### UI:
+
+* Auto-scroll carousel
+* Pause on hover
+* Grayscale → color hover
+* Mobile swipe support
+
+### Location:
+
+* Home page footer top
+
+---
+
+## 🔷 PHASE 7 — Newsletter Signup
+
+### 🎯 Maqsad
+
+Real club interaction hissi.
+
+### UI:
+
+* Email input
+* CTA button
+* Confirmation message
+
+### Logic:
+
+* Validate email
+* Store in LocalStorage
+* Prevent duplicates
+
+---
+
+## 🔷 PHASE 8 — Footnotes & Legal Section
+
+### 🎯 Maqsad
+
+Saytni “real club website” darajasiga chiqarish.
+
+### Footer links:
+
+* Privacy Policy
+* Terms of Service
+* Cookie Policy
+* Contact
+* About FC KUAF
+
+### Design:
+
+* Minimal
+* Muted colors
+* Small typography
+
+---
+
+## 🔷 PHASE 9 — Dynamic Favicon (Light / Dark)
+
+### 🎯 Maqsad
+
+Professional detail.
+
+### Qanday:
+
+* `favicon-dark.ico`
+* `favicon-light.ico`
+
+JS:
+
+```
+Theme change →
+Update favicon →
+Persist
+```
+
+---
+
+## 🔷 PHASE 10 — Custom 404 Page (Barcelona Style)
+
+### 🎯 Maqsad
+
+UX yo‘qolmasin.
+
+### Design:
+
+* Big “404”
+* Club logo
+* Motivational text
+* Button → Home
+
+### Routing:
+
+```
+Unknown route →
+Render 404 page
+```
+
+---
+
+# 🏁 FINAL ROADMAP ORDER
+
+1️⃣ Skeleton loading
+2️⃣ Micro-interactions
+3️⃣ Global search
+4️⃣ KUAF TV overlay
+5️⃣ Store mini cart
+6️⃣ Sponsors carousel
+7️⃣ Newsletter
+8️⃣ Footer legal
+9️⃣ Dynamic favicon
+🔟 Custom 404
